@@ -1,0 +1,13 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Pinhole camera model\relax }}{3}
+\contentsline {figure}{\numberline {2}{\ignorespaces Common camera distortion\relax }}{4}
+\contentsline {figure}{\numberline {3}{\ignorespaces The effect of removal of distortion is clearly visible in the above comparison. The distorted image in the left is corrected in the image in right.\relax }}{6}
+\contentsline {figure}{\numberline {4}{\ignorespaces Image Enhancement\relax }}{7}
+\contentsline {figure}{\numberline {5}{\ignorespaces The entropy of image in left is 5.09\relax }}{8}
+\contentsline {figure}{\numberline {6}{\ignorespaces CDF of Original Image\relax }}{8}
+\contentsline {figure}{\numberline {7}{\ignorespaces The entropy of image in left is 5.34 which is greater than original image\relax }}{9}
+\contentsline {figure}{\numberline {8}{\ignorespaces CDF of equalized image\relax }}{9}
+\contentsline {figure}{\numberline {9}{\ignorespaces The entropy of image in left is 7.466 and for image in right is 7.966\relax }}{11}
+\contentsline {figure}{\numberline {10}{\ignorespaces The entropy of image in left is [4.34354707,4.54178776,4.45467984] and for image in right is [ 7.6624134,7.22025791,7.45981443] in [B,G,R] sequence.\relax }}{11}
+\contentsline {figure}{\numberline {11}{\ignorespaces Application of histogram equalization and CLAHE\relax }}{12}
+\contentsline {figure}{\numberline {12}{\ignorespaces Slope function plot\relax }}{13}
+\contentsline {figure}{\numberline {13}{\ignorespaces Application of automatic color enhancement\relax }}{14}

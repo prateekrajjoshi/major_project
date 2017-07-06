@@ -1,0 +1,7 @@
+fx and fy in pixel units are:
+358.540611326
+359.241962068
+
+principle points used as image centers cx and cy are:
+300.720744359
+229.672690658

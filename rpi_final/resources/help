@@ -1,0 +1,28 @@
+This is a surveillance tool developed using raspberry pi.
+This program allows start a surveillance session. The images   
+captured by this client device is sent to server for further   
+processing.
+
+Start Surveillance:
+This is used to start a surveillance session.
+
+Stop:
+This is used to stop a surveillance session.
+
+Current task status:
+This block information on the current activity 
+is provided.
+
+Capturing image - This means the camera of Pi is 
+engaging in the image capture process.
+
+Transferring - The captured image is being 
+transmitted to the server.
+
+Session stopped: No activity
+
+
+Quit:
+This is used to close the current session.
+
+Version:1.0

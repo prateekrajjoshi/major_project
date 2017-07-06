@@ -1,0 +1,10 @@
+fx and fy in pixel units are:
+360.619013518
+361.397852874
+
+principle points used as image centers cx and cy are:
+300.62238746
+227.722938388
+
+distortion parameters (k1, k2, p1, p2, k3) are:
+(-0.371629221304, 0.164500477485, 7.39785051411e-05, 0.00019351819371, 0.0383317724343)

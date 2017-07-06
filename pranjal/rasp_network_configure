@@ -1,0 +1,28 @@
+1. images are transfeered using scp protocol which uses ssh protocol.
+2. command
+   from pi to computer(server)
+	scp -r path_to_file_in_RPi server_name@192.168.0.110:path_in_server
+   from computer to pi
+	sudo scp path_to_file pi@ip_of_RPi:path_in_RPi
+3. I have made my computer IP static 192.168.0.110
+4. scp requires password each time, to remove need for password, public and private keys can be used.
+
+5.STEPS to generate public and private keys:
+  type in RPi terminal:
+  ssh-keygen -t rsa
+
+  this will generate a private key and a public key named:
+    id_rsa -->private key
+    id_rsa.pub -->public key
+
+6.Save the public in default location in default location by hitting return.
+/home/pi/.ssh/id_rsa
+
+7.leave password empty by hitting return two times as prompted.
+
+8.transfer the id_rsa.pub to remote machine (server) using
+scp -r /home/pi/.ssh/id_rsa.pub server_name@192.168.0.110:/home/pranjal/.ssh/authorized_keys2
+
+9.now you should be able to transfer the files without hitting passwords.
+
+

@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Camera Calibration}{3}
+\contentsline {subsection}{\numberline {1.1}Theory}{3}
+\contentsline {subsection}{\numberline {1.2}Procedure}{5}
+\contentsline {subsubsection}{\numberline {1.2.1}Setup}{5}
+\contentsline {subsubsection}{\numberline {1.2.2}Algorithm}{5}
+\contentsline {subsubsection}{\numberline {1.2.3}Libraries}{5}
+\contentsline {subsection}{\numberline {1.3}Results}{5}
+\contentsline {section}{\numberline {2}Image Enhancement Algorithms}{7}
+\contentsline {subsection}{\numberline {2.1}Histogram Equalization}{7}
+\contentsline {subsection}{\numberline {2.2}Adaptive Histogram Equalization (Entropy based)}{10}
+\contentsline {subsubsection}{\numberline {2.2.1}Algorithm}{10}
+\contentsline {paragraph}{Selection of $\beta $:}{10}
+\contentsline {subsubsection}{\numberline {2.2.2}Results}{11}
+\contentsline {subsection}{\numberline {2.3}Contrast Limited Adaptive Histogram Equalization}{12}
+\contentsline {subsubsection}{\numberline {2.3.1}Results}{12}
+\contentsline {subsection}{\numberline {2.4}Automatic Color Enhancement (ACE)}{13}
+\contentsline {subsubsection}{\numberline {2.4.1}Algorithm}{13}
+\contentsline {subsubsection}{\numberline {2.4.2}Results}{14}
